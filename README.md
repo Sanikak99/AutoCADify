@@ -5,7 +5,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![IEEE](https://img.shields.io/badge/IEEE-Conference-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org/)
 [![License](https://img.shields.io/badge/License-Academic-green?style=for-the-badge)](LICENSE)
-[![Accuracy](https://img.shields.io/badge/R²_Score-0.99-success?style=for-the-badge)](/)
+[![Accuracy](https://img.shields.io/badge/R²_Score-0.90-success?style=for-the-badge)](/)
 [![Design Time](https://img.shields.io/badge/Time_Saved-70--80%25-orange?style=for-the-badge)](/)
 
 **AI-driven CAD automation framework that reduces mechanical design time by 70-80% while maintaining 99% accuracy**
