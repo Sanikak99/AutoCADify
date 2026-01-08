@@ -184,9 +184,6 @@ This approach effectively bridges human design intuition with computational inte
 - **Educational Tool:** Teach CAD principles through AI-assisted learning
 
 
-```
-
----
 
 <div align="center">
 
